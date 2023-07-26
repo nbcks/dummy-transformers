@@ -1,3 +1,7 @@
+import tensorflow as tf
+print("TensorFlow version:", tf.__version__)p:w
+
+
 from typing import List
 from random import Random
 
